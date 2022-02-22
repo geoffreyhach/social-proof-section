@@ -60,7 +60,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Author
 
-- Website - http://geoffreyhach.fr)
+- Website - http://geoffreyhach.fr
 - Frontend Mentor - [@geffjecrois](https://www.frontendmentor.io/profile/geoffjecrois)
 
 
